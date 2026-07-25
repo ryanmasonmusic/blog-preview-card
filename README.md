@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/blog-preview-card-pvB4xDC95M)
 - Live Site URL: https://ryanmasonmusic.github.io/blog-preview-card/
 
 ## My process
